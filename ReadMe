@@ -1,0 +1,28 @@
+Ovarian Cancer and Blood Biomarkers
+Introduction
+Ovarian cancer remains the most lethal gynecological cancer in the United States. Characteristically silent in its early stages, the disease frequently presents in advanced stages, significantly complicating treatment efforts and reducing survival rates.
+Understanding Blood Biomarkers
+Blood biomarkers serve as detectable biological indicators of disease processes. For ovarian cancer, these biomarkers can be crucial for early detection and monitoring. Prominent biomarkers include:
+CA125: The primary biomarker for ovarian cancer, elevated due to the presence of ovarian tumor cells but also affected by non-cancerous conditions like endometriosis and pregnancy.
+HE4: Offers greater specificity than CA125 and aids in distinguishing ovarian cancer from benign conditions.
+ROMA (Risk of Ovarian Malignancy Algorithm): Combines CA125 and HE4 levels with menopausal status to estimate the risk of ovarian cancer.
+Machine Learning Techniques in Ovarian Cancer Detection
+Machine learning (ML) techniques enhance the predictive power and accuracy of ovarian cancer detection through blood biomarkers. This project utilizes several ML approaches:
+Logistic Regression: A statistical model that estimates the probability of a binary outcome based on one or more predictor variables. It is used here to distinguish between the presence and absence of cancer based on biomarker levels.
+Random Forests: An ensemble learning method for classification that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes of the individual trees.
+Support Vector Machines (SVM): Effective in high-dimensional spaces, SVM is particularly adept at creating hyperplanes in an infinite dimensional space, which helps in classification or regression challenges.
+Neural Networks: Advanced modeling that mimics the human brain's architecture and processing, capable of capturing complex patterns and relationships in the data.
+These techniques are applied to enhance the specificity and sensitivity of traditional biomarker tests, aiming to reduce false positives and negatives, thereby providing a more reliable tool for early detection and monitoring of ovarian cancer.
+Applications of Blood Biomarkers
+Biomarkers are crucial for:
+Screening: Targeting high-risk groups for early detection.
+Monitoring: Assessing recurrence or progression during and after treatment.
+Limitations of Blood Biomarkers
+Despite their utility, biomarkers have limitations such as false positives and negatives, which can complicate their interpretation and subsequent clinical decision-making.
+Conclusion
+While indispensable in the management of ovarian cancer, blood biomarkers should be used in conjunction with other diagnostic methods. ML techniques enhance the predictive accuracy of these biomarkers, offering significant potential in the fight against ovarian cancer.
+Additional Resources
+American Cancer Society
+National Ovarian Cancer Coalition
+Gynecologic Cancer Foundation
+
